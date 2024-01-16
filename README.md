@@ -16,4 +16,4 @@ This repository serves as a reference for basic properties and features provided
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Tkinter-Python-Module.git
+   git clone https://github.com/sukhbir77/tkinter-basics-python.git
